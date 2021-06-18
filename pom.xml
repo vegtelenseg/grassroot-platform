@@ -34,7 +34,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>18.0</version>
+            <version>30.0-android</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
@@ -79,7 +79,7 @@
         <dependency>
         	<groupId>org.springframework.security</groupId>
         	<artifactId>spring-security-test</artifactId>
-        	<version>4.0.3.RELEASE</version>
+        	<version>5.2.9.RELEASE</version>
         </dependency>
     </dependencies>
 
